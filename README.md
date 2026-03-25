@@ -1,24 +1,56 @@
-# Atividade_4_ProgWeb
+# ExploreMundo - Site de Viagens
 
-passo-a-passo
+## Descrição do Projeto
 
-Crie um repositório git
+ExploreMundo é um site estático desenvolvido em HTML e CSS que apresenta uma plataforma simples e visualmente atraente para explorar destinos turísticos ao redor do mundo. O projeto fornece informações sobre destinos populares, promove turismo cultural e natural, e facilita o contato para mais informações.
 
-Monte o site de viagens da imagem anexa (exatamente igual).
+---
 
-Crie uma segunda página "Ver Mais Destinos" (você deve propor uma nova página que siga a mesma identidade visual da página principal.
+## Funcionalidades
 
-Publicar no GitHub Pages
+- **Página Inicial** com:
+  - Banner principal com imagem de destaque e chamada para ação.
+  - Seção de Destinos Populares exibindo cartões com imagens e descrições.
+  - Sobre Nós explicando a missão da plataforma.
+  - Formulário de contato simples para envio de mensagem.
+  - Seção "Onde Estamos" com mapa ilustrativo e informações de contato.
 
-Responder a atividade no AVA
+- **Segunda Página ("Ver Mais Destinos")**:
+  - Lista expandida de destinos turísticos, mantendo a identidade visual da página principal.
 
+- Design responsivo para dispositivos móveis e desktop.
 
-OBS.:
+---
 
-Está liberado o uso de qualquer tag e css. NÃO PODE UTILIZAR FRAMEWORKS (EX. REACT)
+## Tecnologias Utilizadas
 
-Está liberado o uso do VSCODE
+- HTML5  
+- CSS3 (Flexbox para layout responsivo, estilização customizada)  
+- Imagens otimizadas para web
 
-Só pode utilizar a IA para apoio de código e exemplos. Não será permitido o uso da IA para fazer toda a montagem. Caso isso seja identificado, a nota do aluno será "0".
+---
 
-As imagens de paisagem podem ser substituídas por imagens novas buscadas na internet.
+## Estrutura do Projeto
+
+exploremundo/
+│
+├── index.html # Página inicial
+├── destinos.html # Página "Ver Mais Destinos"
+├── style.css # Estilos globais
+├── README.md # Documentação do projeto
+└── img/ # Pasta com imagens usadas no site
+├── hero.jpg
+├── praia.jpg
+├── montanha.jpg
+├── cidade.jpg
+├── mapa.jpg
+├── floresta.jpg
+└── deserto.jpg
+## Navegue até a pasta do projeto:
+
+cd exploremundo
+
+1. Clone este repositório:
+
+```bash
+git clone https://github.com/SEU_USUARIO/exploremundo.git
