@@ -53,4 +53,4 @@ cd exploremundo
 1. Clone este repositório:
 
 ```bash
-git clone https://github.com/SEU_USUARIO/exploremundo.git
+git clone https://github.com/MaxMuller082/exploremundo.git
